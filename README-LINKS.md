@@ -7,4 +7,4 @@ https://lavender-adjoining-epoxy.glitch.me/
 https://lavender-adjoining-epoxy.glitch.me/productos
 
 # Producto Random
-https://lavender-adjoining-epoxy.glitch.me/productosRandom
+https://lavender-adjoining-epoxy.glitch.me/productoRandom
